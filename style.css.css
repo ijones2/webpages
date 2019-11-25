@@ -7,13 +7,16 @@
  */
  
 p {
-    property: value;
+    font-family:Arial ;
+	font-size: 18px;
+	color: #FFFFFF;
+    
 }
 
-.class {
-    property: value;
+#photo-resize {
+    max-width: 200px ;
+	max-height: 250px :
 }
 
-#id {
-    property:value;
-}
+.table-border {
+	border: 2px solid #FFFFFF
